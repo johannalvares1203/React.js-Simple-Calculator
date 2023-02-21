@@ -3,7 +3,7 @@ This is a simple calculator created using React.js
 
 
 To view the live website, click below 
-https://calculator-100.herokuapp.com
+https://johannalvares1203.github.io/JavaScript-Calculator/index.html
 
 (Hosted using Heroku)
 Note:-
